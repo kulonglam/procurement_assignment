@@ -1,0 +1,54 @@
+[
+  {
+    "produceName": "Beans",
+    "produceType": "Legumes",
+    "date": "2026-01-28",
+    "time": "19:20",
+    "tonnageInKg": 2000,
+    "costUgx": 5000000,
+    "dealerName": "Lam",
+    "branch": "Matugga",
+    "contact": "0712345670",
+    "source": "Black Eagle Farm",
+    "sellingPrices": 6000000
+  },
+  {
+    "produceName": "Grain Maize",
+    "produceType": "Cereal",
+    "date": "2026-01-28",
+    "time": "19:30",
+    "tonnageInKg": 1000,
+    "costUgx": 4000000,
+    "dealerName": "Chuol",
+    "branch": "Matugga",
+    "contact": "0712345670",
+    "source": "Chuol & Sons Farm",
+    "sellingPrices": 5000000
+  },
+  {
+    "produceName": "Cow peas",
+    "produceType": "Legumes",
+    "date": "2026-01-28",
+    "time": "19:30",
+    "tonnageInKg": 1500,
+    "costUgx": 4000000,
+    "dealerName": "Chuol",
+    "branch": "Maganjo",
+    "contact": "0712345671",
+    "source": "KGL Farm",
+    "sellingPrices": 5000000
+  },
+  {
+    "produceName": "Soybean",
+    "produceType": "Legumes",
+    "date": "2026-01-28",
+    "time": "19:30",
+    "tonnageInKg": 1500,
+    "costUgx": 4000000,
+    "dealerName": "Duol",
+    "branch": "Maganjo",
+    "contact": "0712345672",
+    "source": "KGL Farm",
+    "sellingPrices": 5000000
+  }
+]
